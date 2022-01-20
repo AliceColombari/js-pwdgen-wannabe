@@ -4,8 +4,8 @@
 // Infine scrivi sulla pagina nomecognomecolorepreferito21
 
 // Messaggio iniziale
-alert(`Genera una password!
-Usa il generatore di password per creare una password sicura!`);
+// per andare a capo con le righe \n
+alert('Genera una password! \n Usa il generatore di password per creare una password sicura!');
 
 
 // Chiedo all'utente il suo nome
